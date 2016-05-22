@@ -1,8 +1,8 @@
 # PHYS227 HW 10
 
-**Author:** _\<your name\>_
+**Author:** Chinmai Raman
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-10-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-10-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-10-ChinmaiRaman.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-10-ChinmaiRaman)
 
 **Due date:** 2016/04/28
 
@@ -29,7 +29,7 @@ Finally, to cleanly present your work, create a Jupyter notebook ```hw10.ipynb``
 
 ## Assessment
 
-_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
+FILL THIS IN
 
 ## Honor Pledge
 
@@ -40,4 +40,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Chinmai Raman
