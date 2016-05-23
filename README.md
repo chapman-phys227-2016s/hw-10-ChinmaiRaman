@@ -29,7 +29,7 @@ Finally, to cleanly present your work, create a Jupyter notebook ```hw10.ipynb``
 
 ## Assessment
 
-FILL THIS IN
+good assignment. Made me really learn the different methods of approximation.
 
 ## Honor Pledge
 
